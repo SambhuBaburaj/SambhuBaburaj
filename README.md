@@ -117,7 +117,7 @@ Creating robust and scalable web applications. Skilled in both front-end and bac
 
 ![](https://github-profile-trophy.vercel.app/?username=SambhuBaburaj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 📊 📊 GitHub Stats
+## 📊  GitHub Stats
 <div align="center">
     <a href="https://github.com/SambhuBaburaj">
         <img 
