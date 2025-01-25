@@ -4,14 +4,20 @@
 
 <div id="toc">
    <ul style="list-style: none; padding-left: 0;">
-     <summary>
-    <h1>
-        <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Waving Hand" width="50" height="50" style="vertical-align: middle; margin-right: 3px;"> 
-        Hello World!, my name is Sambhu Baburaj
-    </h1>
-     </summary>
+      <summary>
+         <h1 style="display: flex; align-items: center; gap: 10px; margin: 0;">
+            <img 
+               src="https://iam-weijie.github.io/wave/hand-emoji.svg" 
+               alt="Waving Hand" 
+               width="50" 
+               height="50"
+            > 
+            Hello World!, my name is Sambhu Baburaj
+         </h1>
+      </summary>
    </ul>
 </div>
+
 
 ### 🚀 Passionate Fullstack Web Developer
 
