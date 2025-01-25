@@ -96,11 +96,21 @@ Creating robust and scalable web applications. Skilled in both front-end and bac
 
 ![](https://github-profile-trophy.vercel.app/?username=SambhuBaburaj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 📊 GitHub Stats
-
-<p align="left">
-   <img width="48%" height="100" src="https://github-readme-stats.vercel.app/api/top-langs?username=SambhuBaburaj&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" /><img width="48%" height="100" src="https://streak-stats.demolab.com/?user=SambhuBaburaj&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
-</p>
-
+## 📊 📊 GitHub Stats
+<div align="center">
+    <a href="https://github.com/SambhuBaburaj">
+        <img 
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=SambhuBaburaj&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" 
+            alt="Top Languages" 
+            width="45%" 
+            style="margin-right: 10px;"
+        />
+        <img 
+            src="https://streak-stats.demolab.com/?user=SambhuBaburaj&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" 
+            alt="GitHub Streak" 
+            width="45%"
+        />
+    </a>
+</div>
 
 ![snake gif](https://github.com/SambhuBaburaj/SambhuBaburaj/blob/output/github-snake-dark.svg)
