@@ -2,21 +2,25 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=SambhuBaburaj&label=Profile%20views&color=0e75b6&style=flat)
 
-<div id="toc">
-   <ul style="list-style: none; padding-left: 0;">
+<div id="user-content-toc" style="padding: 0; margin: 0;" dir="auto">
+   <ul style="list-style: none; padding: 0; margin: 0;" dir="auto">
       <summary>
          <h1 style="display: flex; align-items: center; gap: 10px; margin: 0;">
-            <img 
-               src="https://iam-weijie.github.io/wave/hand-emoji.svg" 
-               alt="Waving Hand" 
-               width="50" 
-               height="50"
-            > 
+            <a href="https://iam-weijie.github.io/wave/hand-emoji.svg" target="_blank" rel="noopener noreferrer">
+               <img 
+                  src="https://iam-weijie.github.io/wave/hand-emoji.svg" 
+                  alt="Waving Hand" 
+                  width="50" 
+                  height="50" 
+                  style="max-width: 100%;"
+               >
+            </a> 
             Hello World!, my name is Sambhu Baburaj
          </h1>
       </summary>
    </ul>
 </div>
+
 
 
 ### 🚀 Passionate Fullstack Web Developer
