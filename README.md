@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sambhu Baburaj... and I'm a Fullstack Developer.</h2>
+# Hello World!, I'm Sambhu Baburaj, a Fullstack Developer 👋🏼:
 
 ###
 
