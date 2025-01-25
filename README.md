@@ -2,24 +2,13 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=SambhuBaburaj&label=Profile%20views&color=0e75b6&style=flat)
 
-<style>
-@keyframes wave {
-  0%, 100% { transform: rotate(0deg); }
-  25% { transform: rotate(20deg); }
-  75% { transform: rotate(-20deg); }
-}
-.wave-emoji {
-  display: inline-block;
-  animation: wave 1.5s ease-in-out infinite;
-  transform-origin: 70% 70%;
-}
-</style>
 <div id="toc">
    <ul style="list-style: none; padding-left: 0;">
      <summary>
-       <h1>
-         <span class="wave-emoji">👋</span> Hello World!, my name is Sambhu Baburaj
-       </h1>
+    <h1>
+        <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Waving Hand" width="50" height="50" style="vertical-align: middle; margin-right: 3px;"> 
+        Hello World!, my name is Sambhu Baburaj
+    </h1>
      </summary>
    </ul>
 </div>
@@ -110,8 +99,7 @@ Creating robust and scalable web applications. Skilled in both front-end and bac
 ## 📊 GitHub Stats
 
 <p align="left">
-   <img width="48%" height="100" src="https://github-readme-stats.vercel.app/api/top-langs?username=SambhuBaburaj&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />   
-   <img width="48%" height="100" src="https://streak-stats.demolab.com/?user=SambhuBaburaj&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+   <img width="48%" height="100" src="https://github-readme-stats.vercel.app/api/top-langs?username=SambhuBaburaj&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" /><img width="48%" height="100" src="https://streak-stats.demolab.com/?user=SambhuBaburaj&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>
 
 ![snake gif](https://github.com/SambhuBaburaj/SambhuBaburaj/blob/output/github-snake-dark.svg)
