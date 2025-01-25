@@ -55,7 +55,7 @@
 <img src="https://raw.githubusercontent.com/SambhuBaburaj/SambhuBaburaj/output/snake.svg" alt="Snake animation" />
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-
+![snake gif](https://github.com/SambhuBaburaj/SambhuBaburaj/blob/output/github-snake-dark.svg)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SambhuBabura/SambhuBabura/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SambhuBabura/SambhuBabura/output/github-snake.svg" />
